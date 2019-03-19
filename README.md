@@ -10,15 +10,18 @@ insert
 delete
 
 Main class simply inserts 2 Persons
+
 ![Main](https://github.com/delalama/KotlinBasicRest/blob/master/kotlinRestPics/Main.png)
 
 
 Person class
+
 ![Person](https://github.com/delalama/KotlinBasicRest/blob/master/kotlinRestPics/Person.png)
 
 
 Application properties
 H2 db basic conf
+
 ![AppProp](https://github.com/delalama/KotlinBasicRest/blob/master/kotlinRestPics/appProp.png)
 
 
