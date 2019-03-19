@@ -26,28 +26,29 @@ H2 db basic conf
 
 
 Controller
-
 Implement the basic operations
-![AppProp](https://github.com/delalama/KotlinBasicRest/blob/master/kotlinRestPics/famousController.png)
+
+![Controller](https://github.com/delalama/KotlinBasicRest/blob/master/kotlinRestPics/famousController.png)
 
 
 Add one Person with Postman
 
-![AppProp](https://github.com/delalama/KotlinBasicRest/blob/master/kotlinRestPics/postman%20Add%20EugenP.png)
+![Add](https://github.com/delalama/KotlinBasicRest/blob/master/kotlinRestPics/postman%20Add%20EugenP.png)
 
 
 Delete one person
 
-![AppProp](https://github.com/delalama/KotlinBasicRest/blob/master/kotlinRestPics/postmanDelete.png)
+![Delete](https://github.com/delalama/KotlinBasicRest/blob/master/kotlinRestPics/postmanDelete.png)
 
 
 Find By Name
 
-![AppProp](https://github.com/delalama/KotlinBasicRest/blob/master/kotlinRestPics/postmanFindByName.png)
+![FindByName](https://github.com/delalama/KotlinBasicRest/blob/master/kotlinRestPics/postmanFindByName.png)
 
 
 Find All
-![AppProp](https://github.com/delalama/KotlinBasicRest/blob/master/kotlinRestPics/postmanFindAll.png)
+
+![FindAll](https://github.com/delalama/KotlinBasicRest/blob/master/kotlinRestPics/postmanFindAll.png)
 
 
 
